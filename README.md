@@ -147,4 +147,8 @@ Summe = 218
 4339080204
 ```
 
+## Test
+
+Testen Sie die Anwendung ausführlich mit einem Import von csv-Daten!
+
 > **Viel Erfolg!**
