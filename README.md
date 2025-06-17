@@ -149,6 +149,6 @@ Summe = 218
 
 ## Test
 
-Testen Sie die Anwendung ausführlich mit einem Import von csv-Daten!
+Testen Sie die Anwendung ausführlich mit einem Import von csv-Daten und bearebeiten Sie diese Daten mit den Angular Formularen!
 
 > **Viel Erfolg!**
